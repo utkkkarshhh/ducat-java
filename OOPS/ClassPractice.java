@@ -1,5 +1,3 @@
-package OOPS;
-
 import java.util.Scanner;
 
 class Rectangle {
